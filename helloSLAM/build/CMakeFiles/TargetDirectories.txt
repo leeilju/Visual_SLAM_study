@@ -1,6 +1,0 @@
-/root/visual_slam_ws/src/helloSLAM/build/CMakeFiles/helloSLAM.dir
-/root/visual_slam_ws/src/helloSLAM/build/CMakeFiles/hello.dir
-/root/visual_slam_ws/src/helloSLAM/build/CMakeFiles/useHello.dir
-/root/visual_slam_ws/src/helloSLAM/build/CMakeFiles/hello_shared.dir
-/root/visual_slam_ws/src/helloSLAM/build/CMakeFiles/edit_cache.dir
-/root/visual_slam_ws/src/helloSLAM/build/CMakeFiles/rebuild_cache.dir
